@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89907E2A-5BF3-4867-9356-254F53AD68C3}|Network\\Controller.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\network\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89907E2A-5BF3-4867-9356-254F53AD68C3}|Network\\Controller.csproj|solutionrelative:network\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\communicatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\communicatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\icommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\icommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\tcpcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\tcpcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\udpcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\udpcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\remoteprocedurecallcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\remoteprocedurecallcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\protocols\\protocolcommunicatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB422B-83A3-4927-848C-D2BE9F8F9BC1}|Protocols\\Protocols.csproj|solutionrelative:protocols\\protocolcommunicatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907E2A-5BF3-4867-9356-254F53AD68C3}|Network\\Controller.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\factorymethoddesignpatternexample\\network\\controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89907E2A-5BF3-4867-9356-254F53AD68C3}|Network\\Controller.csproj|solutionrelative:network\\controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommunicatorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\CommunicatorFactory.cs",
+              "RelativeDocumentMoniker": "Protocols\\CommunicatorFactory.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\CommunicatorFactory.cs",
+              "RelativeToolTip": "Protocols\\CommunicatorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:51:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TcpCommunicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\TcpCommunicator.cs",
+              "RelativeDocumentMoniker": "Protocols\\TcpCommunicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\TcpCommunicator.cs",
+              "RelativeToolTip": "Protocols\\TcpCommunicator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:19:56.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoteProcedureCallCommunicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\RemoteProcedureCallCommunicator.cs",
+              "RelativeDocumentMoniker": "Protocols\\RemoteProcedureCallCommunicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\RemoteProcedureCallCommunicator.cs",
+              "RelativeToolTip": "Protocols\\RemoteProcedureCallCommunicator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:27:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UdpCommunicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\UdpCommunicator.cs",
+              "RelativeDocumentMoniker": "Protocols\\UdpCommunicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\UdpCommunicator.cs",
+              "RelativeToolTip": "Protocols\\UdpCommunicator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:26:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Network\\Controller.cs",
+              "RelativeDocumentMoniker": "Network\\Controller.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Network\\Controller.cs",
+              "RelativeToolTip": "Network\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:23:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommunicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\ICommunicator.cs",
+              "RelativeDocumentMoniker": "Protocols\\ICommunicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\ICommunicator.cs",
+              "RelativeToolTip": "Protocols\\ICommunicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:23:46.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProtocolCommunicatorBase.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\ProtocolCommunicatorBase.cs",
+              "RelativeDocumentMoniker": "Protocols\\ProtocolCommunicatorBase.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Protocols\\ProtocolCommunicatorBase.cs",
+              "RelativeToolTip": "Protocols\\ProtocolCommunicatorBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:21:17.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Controller.csproj",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Network\\Controller.csproj",
+              "RelativeDocumentMoniker": "Network\\Controller.csproj",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\FactoryMethodDesignPatternExample\\Network\\Controller.csproj",
+              "RelativeToolTip": "Network\\Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T12:16:10.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

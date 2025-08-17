@@ -1,0 +1,34 @@
+C:\Users\sidar\source\repos\Network\Protocols\bin\Debug\net8.0\Protocols.deps.json
+C:\Users\sidar\source\repos\Network\Protocols\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\source\repos\Network\Protocols\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfo.cs
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.dll
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\refint\Protocols.dll
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\source\repos\Network\Protocols\obj\Debug\net8.0\ref\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\bin\Debug\net8.0\Protocols.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\refint\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Protocols\obj\Debug\net8.0\ref\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\bin\Debug\net8.0\Protocols.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\refint\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Protocols\obj\Debug\net8.0\ref\Protocols.dll

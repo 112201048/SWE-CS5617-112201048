@@ -1,0 +1,55 @@
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Controller.exe
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Controller.deps.json
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Controller.runtimeconfig.json
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Controller.dll
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Controller.pdb
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\source\repos\Network\Network\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.csproj.AssemblyReference.cache
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.AssemblyInfo.cs
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.csproj.Up2Date
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.dll
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\refint\Controller.dll
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.pdb
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\Controller.genruntimeconfig.cache
+C:\Users\sidar\source\repos\Network\Network\obj\Debug\net8.0\ref\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Controller.exe
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Controller.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Controller.runtimeconfig.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Controller.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.csproj.AssemblyReference.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.csproj.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\refint\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\Controller.genruntimeconfig.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\Network\Network\obj\Debug\net8.0\ref\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Controller.exe
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Controller.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Controller.runtimeconfig.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Controller.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Protocols.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\bin\Debug\net8.0\Protocols.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.csproj.AssemblyReference.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.csproj.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\refint\Controller.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\Controller.genruntimeconfig.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\FactoryMethodDesignPatternExample\Network\obj\Debug\net8.0\ref\Controller.dll

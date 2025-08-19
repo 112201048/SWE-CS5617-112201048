@@ -7,10 +7,14 @@ import securityproviders.*;
 public class Program {
     public static void main(String[] args) {
         // Create the various security provider instances.
-        ISecurityProvider chain = new EncoderSecurity(new OnlineAccountSecurityProvider
-                (new AntivirusSecurityProvider(new DeviceSecurity(null))));
+        ISecurityProvider device = new DeviceSecurity();
+        ISecurityProvider online = new OnlineAccountSecurityProvider();
+        ISecurityProvider antivirus = new AntivirusSecurityProvider();
+        ISecurityProvider encoder = new EncoderSecurity(device);
+
+        device.setNext(online).setNext(antivirus);
         // Start the scans
-        if (chain.scan()){
+        if (encoder.scan()){
             System.out.println("All the scans have completed Successfully");
         }
         else{

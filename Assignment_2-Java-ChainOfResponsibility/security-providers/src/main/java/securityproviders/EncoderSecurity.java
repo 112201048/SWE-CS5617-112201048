@@ -19,6 +19,13 @@ public class EncoderSecurity implements ISecurityProvider{
     }
 
     @Override
+    public ISecurityProvider setNext(ISecurityProvider next)
+    {
+        _next = next;
+        return next;
+    }
+
+    @Override
     public String getName() {
         return "ENCODER";
     }

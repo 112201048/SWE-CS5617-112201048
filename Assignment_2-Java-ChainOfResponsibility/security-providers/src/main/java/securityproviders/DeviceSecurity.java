@@ -2,8 +2,9 @@ package securityproviders;
 
 public class DeviceSecurity implements ISecurityProvider {
     ISecurityProvider _next;
-    public DeviceSecurity(ISecurityProvider next) {
-        _next = next;
+    public DeviceSecurity()
+    {
+        //Constructor Logic if needed
     }
 
     @Override
@@ -19,9 +20,16 @@ public class DeviceSecurity implements ISecurityProvider {
         }
         // Continue only if the current scan passed
         if (_next != null && scanResult){
-            scanResult = scanResult && _next.scan();
+            scanResult = _next.scan();
         }
         return scanResult;
+    }
+
+    @Override
+    public ISecurityProvider setNext(ISecurityProvider next)
+    {
+        _next = next;
+        return next;
     }
 
     @Override

@@ -2,8 +2,9 @@ package securityproviders;
 
 public class OnlineAccountSecurityProvider extends AccountSecurityProvider implements ISecurityProvider {
     ISecurityProvider _next;
-    public OnlineAccountSecurityProvider(ISecurityProvider next) {
-        _next = next;
+    public OnlineAccountSecurityProvider()
+    {
+        //Constructor Logic if needed
     }
 
     @Override
@@ -25,9 +26,16 @@ public class OnlineAccountSecurityProvider extends AccountSecurityProvider imple
         scanResult = scanResult && baseScanResult;
         // Continue only if the current scan passed
         if (_next != null && scanResult){
-            scanResult = scanResult && _next.scan();
+            scanResult = _next.scan();
         }
         return scanResult; // Combine results
+    }
+
+    @Override
+    public ISecurityProvider setNext(ISecurityProvider next)
+    {
+        _next = next;
+        return next;
     }
 
     @Override

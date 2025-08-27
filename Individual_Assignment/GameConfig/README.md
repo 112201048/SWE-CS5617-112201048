@@ -24,6 +24,10 @@ The **GameConfigManager** class ensures only one instance of the configuration e
 - **`App`** - Demonstration class showing how all components share the same Singleton instance.
 - **Comprehensive test suite** - Validates pattern implementation
 
+## UML Diagram
+
+![File-System-class-diagram](UML.png)
+
 ### Prerequisites
 
 - **Java 17** or higher
@@ -53,7 +57,7 @@ The **GameConfigManager** class ensures only one instance of the configuration e
 
 4. **Run the demonstration:**
    ```bash
-   mvn exec:java
+    mvn exec:java -pl Game "-Dexec.mainClass=game.App"
    ```
 
 ## 🔧 Build Commands
@@ -64,7 +68,4 @@ The **GameConfigManager** class ensures only one instance of the configuration e
 | ---------------------- | --------------------------------- |
 | `mvn clean compile`    | Clean and compile the source code |
 | `mvn test`             | Run all unit tests                |
-| `mvn jacoco:report`    | Generate code coverage report     |
 | `mvn checkstyle:check` | Run code style checks             |
-| `mvn package`          | Create JAR file                   |
-| `mvn site`             | Generate project documentation    |

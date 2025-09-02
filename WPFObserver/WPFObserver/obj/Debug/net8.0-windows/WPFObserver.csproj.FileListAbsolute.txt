@@ -1,0 +1,57 @@
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.exe
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.deps.json
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.runtimeconfig.json
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.pdb
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver_MarkupCompile.cache
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver_MarkupCompile.lref
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.g.resources
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.AssemblyInfo.cs
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\refint\WPFObserver.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.pdb
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.genruntimeconfig.cache
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\ref\WPFObserver.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Chat.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Screenshare.dll
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Chat.pdb
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Networking.pdb
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Screenshare.pdb
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.csproj.AssemblyReference.cache
+C:\Users\sidar\source\repos\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObser.C249118A.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.exe
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.runtimeconfig.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\WPFObserver.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Chat.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Screenshare.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Chat.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Networking.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\bin\Debug\net8.0-windows\Screenshare.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.csproj.AssemblyReference.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver_MarkupCompile.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver_MarkupCompile.lref
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.g.resources
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObser.C249118A.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\refint\WPFObserver.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\WPFObserver.genruntimeconfig.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\WPFObserver\obj\Debug\net8.0-windows\ref\WPFObserver.dll

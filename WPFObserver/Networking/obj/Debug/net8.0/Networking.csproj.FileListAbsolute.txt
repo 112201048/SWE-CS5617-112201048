@@ -1,0 +1,23 @@
+C:\Users\sidar\source\repos\WPFObserver\Networking\bin\Debug\net8.0\Networking.deps.json
+C:\Users\sidar\source\repos\WPFObserver\Networking\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\Networking\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.AssemblyInfo.cs
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\refint\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\Networking.pdb
+C:\Users\sidar\source\repos\WPFObserver\Networking\obj\Debug\net8.0\ref\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\bin\Debug\net8.0\Networking.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\refint\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\Networking.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Networking\obj\Debug\net8.0\ref\Networking.dll

@@ -1,0 +1,31 @@
+C:\Users\sidar\source\repos\WPFObserver\Chat\bin\Debug\net8.0\Chat.deps.json
+C:\Users\sidar\source\repos\WPFObserver\Chat\bin\Debug\net8.0\Chat.dll
+C:\Users\sidar\source\repos\WPFObserver\Chat\bin\Debug\net8.0\Chat.pdb
+C:\Users\sidar\source\repos\WPFObserver\Chat\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\Chat\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.AssemblyReference.cache
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.AssemblyInfo.cs
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.Up2Date
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.dll
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\refint\Chat.dll
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\Chat.pdb
+C:\Users\sidar\source\repos\WPFObserver\Chat\obj\Debug\net8.0\ref\Chat.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\bin\Debug\net8.0\Chat.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\bin\Debug\net8.0\Chat.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\bin\Debug\net8.0\Chat.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.AssemblyReference.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.csproj.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\refint\Chat.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\Chat.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Chat\obj\Debug\net8.0\ref\Chat.dll

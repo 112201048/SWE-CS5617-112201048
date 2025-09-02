@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\networking\\communicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|solutionrelative:networking\\communicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\networking\\icommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|solutionrelative:networking\\icommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1D8C-0302-4963-AA0A-664BCF7604A8}|WPFObserver\\WPFObserver.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\wpfobserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED1D8C-0302-4963-AA0A-664BCF7604A8}|WPFObserver\\WPFObserver.csproj|solutionrelative:wpfobserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB79557A-9FAC-400C-8D65-1585ACC6C9B0}|Chat\\Chat.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB79557A-9FAC-400C-8D65-1585ACC6C9B0}|Chat\\Chat.csproj|solutionrelative:chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\networking\\imessagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|solutionrelative:networking\\imessagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\networking\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E314E43-DD77-4B28-8799-0436FE88AA5A}|Networking\\Networking.csproj|solutionrelative:networking\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C35C22-2370-432C-98F0-D892F3F347FE}|Screenshare\\Screenshare.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C35C22-2370-432C-98F0-D892F3F347FE}|Screenshare\\Screenshare.csproj|solutionrelative:screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED1D8C-0302-4963-AA0A-664BCF7604A8}|WPFObserver\\WPFObserver.csproj|c:\\users\\sidar\\onedrive\\desktop\\sw engineering course\\swe-cs5617-112201048\\wpfobserver\\wpfobserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4AED1D8C-0302-4963-AA0A-664BCF7604A8}|WPFObserver\\WPFObserver.csproj|solutionrelative:wpfobserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMessageListener.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\IMessageListener.cs",
+              "RelativeDocumentMoniker": "Networking\\IMessageListener.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\IMessageListener.cs",
+              "RelativeToolTip": "Networking\\IMessageListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:38:45.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Communicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\Communicator.cs",
+              "RelativeDocumentMoniker": "Networking\\Communicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\Communicator.cs",
+              "RelativeToolTip": "Networking\\Communicator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:36:25.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\WPFObserver\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFObserver\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\WPFObserver\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFObserver\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:18:12.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScreenshareListener.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Screenshare\\ScreenshareListener.cs",
+              "RelativeDocumentMoniker": "Screenshare\\ScreenshareListener.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Screenshare\\ScreenshareListener.cs",
+              "RelativeToolTip": "Screenshare\\ScreenshareListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:42:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatListener.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Chat\\ChatListener.cs",
+              "RelativeDocumentMoniker": "Chat\\ChatListener.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Chat\\ChatListener.cs",
+              "RelativeToolTip": "Chat\\ChatListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:40:16.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\Listener.cs",
+              "RelativeDocumentMoniker": "Networking\\Listener.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\Listener.cs",
+              "RelativeToolTip": "Networking\\Listener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:39:21.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommunicator.cs",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\ICommunicator.cs",
+              "RelativeDocumentMoniker": "Networking\\ICommunicator.cs",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\Networking\\ICommunicator.cs",
+              "RelativeToolTip": "Networking\\ICommunicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:38:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\WPFObserver\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFObserver\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sidar\\OneDrive\\Desktop\\SW Engineering Course\\SWE-CS5617-112201048\\WPFObserver\\WPFObserver\\MainWindow.xaml",
+              "RelativeToolTip": "WPFObserver\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-29T16:18:12.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

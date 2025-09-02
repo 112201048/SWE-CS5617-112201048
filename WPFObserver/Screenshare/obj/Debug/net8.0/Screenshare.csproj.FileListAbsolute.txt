@@ -1,0 +1,31 @@
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.deps.json
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.dll
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.pdb
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.csproj.AssemblyReference.cache
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfoInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfo.cs
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.csproj.CoreCompileInputs.cache
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screensh.75F9272A.Up2Date
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.dll
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\refint\Screenshare.dll
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.pdb
+C:\Users\sidar\source\repos\WPFObserver\Screenshare\obj\Debug\net8.0\ref\Screenshare.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.deps.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\bin\Debug\net8.0\Screenshare.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\bin\Debug\net8.0\Networking.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\bin\Debug\net8.0\Networking.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.csproj.AssemblyReference.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfoInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfo.cs
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.csproj.CoreCompileInputs.cache
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.sourcelink.json
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screensh.75F9272A.Up2Date
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\refint\Screenshare.dll
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\Screenshare.pdb
+C:\Users\sidar\OneDrive\Desktop\SW Engineering Course\SWE-CS5617-112201048\WPFObserver\Screenshare\obj\Debug\net8.0\ref\Screenshare.dll
